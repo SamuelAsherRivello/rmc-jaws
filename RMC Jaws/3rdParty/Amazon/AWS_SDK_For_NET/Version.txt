@@ -1,0 +1,7 @@
+Source Url: 
+* https://aws.amazon.com/sdk-for-net/
+* There are MANY DLLs available there
+
+Changelog: 
+* Only SOME DLLs are imported
+* Moved to /Assets/3rdParty/

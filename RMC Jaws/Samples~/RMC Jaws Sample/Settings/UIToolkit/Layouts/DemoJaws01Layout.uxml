@@ -1,0 +1,29 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/3rdParty/RMC/RMC%20Backend/RMC%20Backend%20Samples/Settings/UIToolkit/Styles/RMCBackendStyle.uss?fileID=7433441132597879392&amp;guid=274403163ac7e8b43adc8eb37f575520&amp;type=3#RMCBackendStyle" />
+    <ui:VisualElement name="Screen" class="screen" style="flex-grow: 1;">
+        <ui:VisualElement name="Panel" class="panel" style="flex-shrink: 1;">
+            <ui:VisualElement name="Header" class="header">
+                <ui:VisualElement name="IconImage" style="-unity-background-scale-mode: scale-to-fit; background-image: url(&quot;project://database/Assets/3rdParty/RMC/RMC%20Backend/RMC%20Backend/Documentation/ReadMe/Art/Sprites/ProjectIcon64x64.png?fileID=2800000&amp;guid=d03df3ead151d5745af87adfa6ba111e&amp;type=3#ProjectIcon64x64&quot;); border-left-color: rgb(152, 152, 152); border-right-color: rgb(152, 152, 152); border-top-color: rgb(152, 152, 152); border-bottom-color: rgb(152, 152, 152); border-top-width: 2px; border-right-width: 2px; border-bottom-width: 2px; border-left-width: 2px; width: 40px; height: 40px;" />
+                <ui:Label tabindex="-1" text="Jaws" parse-escape-sequences="true" display-tooltip-when-elided="true" name="TitleLabel" class="title-label" style="flex-grow: 1;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="Body" class="body" style="flex-grow: 1; height: 100%; width: 100%;">
+                <ui:Label tabindex="-1" text="..." parse-escape-sequences="true" display-tooltip-when-elided="true" name="DescriptionLabel" class="header-label description-label" style="-unity-font-style: normal;" />
+                <ui:Label tabindex="-1" text="Input" parse-escape-sequences="true" display-tooltip-when-elided="true" name="InputLabel" class="header-label" />
+                <ui:TextField picking-mode="Ignore" label="Label" value="Value" name="InputTextField01" />
+                <ui:TextField picking-mode="Ignore" label="Label" value="Value" name="InputTextField02" />
+                <ui:Label tabindex="-1" text="Output" parse-escape-sequences="true" display-tooltip-when-elided="true" name="OutputLabel" class="header-label" />
+                <ui:TextField picking-mode="Ignore" label="Label" value="Value" name="OutputTextField01" />
+                <ui:TextField picking-mode="Ignore" label="Label" value="Value" name="OutputTextField02" />
+                <ui:TextField picking-mode="Ignore" label="Label" value="Value" name="OutputTextField03" />
+                <ui:VisualElement name="Buttons" style="flex-grow: 0; flex-direction: row; padding-top: 10px; padding-right: 0; padding-bottom: 10px; padding-left: 0; flex-wrap: wrap; justify-content: flex-end;">
+                    <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" name="Button" class="button" />
+                    <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" class="button" />
+                    <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" class="button" />
+                    <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" class="button" />
+                    <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" class="button" />
+                    <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" class="button" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
