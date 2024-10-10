@@ -1,9 +1,9 @@
 [![npm package](https://img.shields.io/npm/v/com.rmc.rmc-jaws)](https://www.npmjs.com/package/com.rmc.rmc-jaws)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-<img width = "400" src="https://raw.githubusercontent.com/SamuelAsherRivello/rmc-core/main/RMC%20Core/Documentation~/com.rmc_namespace_logo.png" />
+<img width = "600" src="https://raw.githubusercontent.com/SamuelAsherRivello/rmc-jaws/refs/heads/main/RMC%20Jaws/Documentation/ReadMe/Art/Sprites/ProjectBanner.png" />
 
-# RMC JAWS (Just Amazon Web Services) Library for Unity
+# RMC J.A.W.S. Library for Unity (Just Amazon Web Services) 
 
 - [How To Use](#how-to-use)
 - [Install](#install)
@@ -18,7 +18,13 @@
 
 ## How to use
 
-RMC's best practices for Unity package structure and C# coding standards. It is a recommended starting point for new Unity packages.
+While finishing an , I refined the API and generalized it for educational and development use-cases.
+
+RMC JAWS demonstrates a solid philosophy to API design and development approach. It is light and accesses key features of Amazon Web Server (AWS) Gaming integration.
+
+It is a great starting point to working with Unity and AWS. Its design serves as a real-world codebase to expand as you need more AWS services. Currently RMC Jaws offers only a few AWS services.
+
+See [SamuelAsherRivello.com/packages/rmc-jaws/](https://www.samuelasherrivello.com/packages/rmc-jaws/) for more info!
 
 Enjoy!
 
@@ -105,21 +111,26 @@ Some packages include optional samples with clear use cases. To import and run t
 ## Configuration
 
 - `Unity Target` - [Standalone MAC/PC](https://support.unity.com/hc/en-us/articles/206336795-What-platforms-are-supported-by-Unity-)
-- `Unity Version` - Any [Unity Editor](https://unity.com/download) 2021.x or higher
+- `Unity Version` - Any [Unity Editor](https://unity.com/download) 2022.x or higher
 - `Unity Rendering` - Any [Unity Render Pipeline](https://docs.unity3d.com/Manual/universal-render-pipeline.html)
 - `Unity Aspect Ratio` - Any [Unity Game View](https://docs.unity3d.com/Manual/GameView.html)
 
-# Created By
+<BR>
+<BR>
+
+## Credits
+
+**Created By**
 
 - Samuel Asher Rivello
-- Over 23 years XP with game development (2023)
-- Over 10 years XP with Unity (2023)
+- Over 25 years XP with game development (2024)
+- Over 11 years XP with Unity (2024)
 
-# Contact
+**Contact**
 
 - Twitter - <a href="https://twitter.com/srivello/">@srivello</a>
+- Git - <a href="https://github.com/SamuelAsherRivello/">Github.com/SamuelAsherRivello</a>
 - Resume & Portfolio - <a href="http://www.SamuelAsherRivello.com">SamuelAsherRivello.com</a>
-- Source Code on Git - <a href="https://github.com/SamuelAsherRivello/">Github.com/SamuelAsherRivello</a>
 - LinkedIn - <a href="https://Linkedin.com/in/SamuelAsherRivello">Linkedin.com/in/SamuelAsherRivello</a> <--- Say Hello! :)
 
 **License**
