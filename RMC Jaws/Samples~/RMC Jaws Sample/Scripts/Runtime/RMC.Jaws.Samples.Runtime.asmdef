@@ -1,0 +1,16 @@
+{
+    "name": "RMC.Jaws.Samples.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e96d80b55c8157848823b71a1f1da9af"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

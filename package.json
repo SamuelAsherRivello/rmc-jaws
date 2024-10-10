@@ -1,0 +1,46 @@
+{
+  "name": "com.rmc.rmc-jaws",
+  "displayName": "RMC Jaws",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "description": "RMC Jaws (Just Amazon Web Services) Library for Unity",
+  "keywords": [
+    "unity",
+    "unity3d",
+    "rmc",
+    "upm",
+    "package",
+    "utility",
+    "amazon",
+    "aws",
+    "backend",
+    "baas",
+    "accounts",
+    "database",
+    "cloud-code"
+  ],
+  "dependencies": {
+    "com.rmc.rmc-readme": "1.2.2",
+    "com.rmc.rmc-core": "1.6.7"
+  },
+  "homepage": "https://github.com/samuelasherrivello/rmc-jaws/",
+  "bugs": {
+    "url": "https://github.com/samuelasherrivello/rmc-jaws/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/samuelasherrivello/rmc-jaws.git"
+  },
+  "license": "MIT",
+  "author": "rmc (github.com/SamuelAsherRivello)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "samples": [
+    {
+      "displayName": "RMC Jaws Sample",
+      "description": "Demonstrate the RMC Jaws Library",
+      "path": "RMC Jaws/Samples~/RMC Jaws Sample"
+    }
+  ]
+}

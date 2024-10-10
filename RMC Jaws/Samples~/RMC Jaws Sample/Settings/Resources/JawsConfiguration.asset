@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 560ff652ad5bfa64abc898a8c730cb6e, type: 3}
+  m_Name: JawsConfiguration
+  m_EditorClassIdentifier: 
+  _clientId: 5vhntftnlqdo626sm1n1kl4624
+  _identityPoolId: us-east-1:730d30ad-aea1-4be2-ae8a-9421dfc57cc8
