@@ -18,9 +18,7 @@
 
 ## How to use
 
-While finishing an , I refined the API and generalized it for educational and development use-cases.
-
-RMC JAWS demonstrates a solid philosophy to API design and development approach. It is light and accesses key features of Amazon Web Server (AWS) Gaming integration.
+RMC Jaws (Just Amazon Web Services)  demonstrates a solid philosophy to API design and development approach. It is light and accesses key features of Amazon Web Server (AWS) Gaming integration.
 
 It is a great starting point to working with Unity and AWS. Its design serves as a real-world codebase to expand as you need more AWS services. Currently RMC Jaws offers only a few AWS services.
 
@@ -54,7 +52,7 @@ Or to edit the `Packages/manifest.json` directly with your favorite text editor,
     }
   ],
   "dependencies": {
-    "com.rmc.rmc-jaws": "0.0.1"
+    "com.rmc.rmc-jaws": "0.0.3"
   }
 }
 ```
